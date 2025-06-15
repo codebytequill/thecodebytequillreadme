@@ -2,8 +2,6 @@
 
 A simple, minimalist, single-file blog application created to document my coding and technology learning journey. All data is stored locally in the browser, and the entire application is contained within a single `index.html` file for ultimate portability and ease of deployment.
 
-**Live Demo:** [https://your-netlify-site-name.netlify.app/]([https://your-netlify-site-name.netlify.app/](https://thecodebytequillreadme.netlify.app/))
-
 ## About This Project
 
 This project was born from the desire to have a simple, no-fuss platform to document notes, thoughts, and progress while learning to code. The name itself is a summary of its mission:
